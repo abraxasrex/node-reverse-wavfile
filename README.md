@@ -1,10 +1,12 @@
-# node-reverse-wav
+# node-reverse-wav  
 
-### example usage in node.js
+### example usage in node.js  
 
- - ~~npm install reverse-wav in node.js project folder~~ WIP
+ - ~~npm install reverse-wav in node.js project folder~~ WIP  
 
- - module.exports in reverse-wav.js exports the reverseWav() function
+ - module.exports in reverse-wav.js exports the reverseWav() function  
+
+ - example.js  
 
 ``` js  
 
