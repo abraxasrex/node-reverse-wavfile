@@ -1,7 +1,7 @@
 var fs = require('fs');
 var path = require('path');
 
-module.exports = function reverseWav(fileName) {
+exports.reverseWav = function (fileName) {
 
   function reOrderOctets(wav_buffer) {
     var octets = [];
