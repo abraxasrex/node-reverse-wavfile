@@ -1,6 +1,6 @@
 {
   "name": "reverse-wav",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "reverses a .wav audio file with node buffers",
   "author": "abraxasrex@github.com"
 }
