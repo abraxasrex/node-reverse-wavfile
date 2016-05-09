@@ -2,7 +2,7 @@
 
 ### example usage in node.js  
 
- - npm install 'reverse-wav' in node.js project folder WIP  
+ - npm install 'reverse-wav' in node.js project folder
 
  - module.exports in reverse-wav.js exports the reverseWav() function  
 
